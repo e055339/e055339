@@ -19,7 +19,7 @@
 ## 🛠 Skills
 - **Environment & Framework**: Node.js, Express, Linux, Docker
 
-- **Programming Language**: HTML, CSS, JavaScript
+- **Programming Language**: JavaScript
 
 - **Database**: MySQL, Redis
 
